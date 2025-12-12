@@ -1,6 +1,8 @@
 # 👋 Olá, eu sou Matheus Guimarães
 
 ```Backend, Dados e IA — construindo APIs, pipelines ETL e soluções orientadas a dados com Python.```
+
+
 Sou estudante de **Análise e Desenvolvimento de Sistemas**, com foco em **Backend, Engenharia de Dados e Inteligência Artificial**.
 
 Atualmente participo do **Bootcamp Santander 2025 – Ciência de Dados com Python**, onde desenvolvo projetos práticos envolvendo APIs, pipelines ETL e integração com IA generativa.
